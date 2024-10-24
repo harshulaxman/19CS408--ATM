@@ -1,7 +1,7 @@
-# 19CS408--ATM
+# EX-01: ATM
 
-# Harsshitha lakshmanan 
-# 212223230075
+# NAME: Harsshitha lakshmanan 
+# REG NO: 212223230075
 
 # USE CASE DIAGRAM
 ![ATM use case](https://github.com/user-attachments/assets/c64422a7-9594-4612-904f-30e6317f587b)
